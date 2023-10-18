@@ -1,6 +1,6 @@
 # Predictive Model for Loan Default Assessment
 
-## 🕵️‍♂️ Loan Default Risk Assessment Model 
+## 🕵️‍♂️ Loan Default Risk Assessment Model  
 Welcome to my Loan Default Risk Assessment Model project repository! Predicting loan default risk is a critical task in the world of finance, and we're here to make it even more intriguing! 🤩
 
 ## 📢 Project Overview
